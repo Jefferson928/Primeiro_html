@@ -2,3 +2,8 @@
 
 > Status do projeto: Concluído
 
+Para rodar esse porjeto na sua máquina:
+
+```
+Apenas um navegador de sua preferencia
+```
